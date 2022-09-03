@@ -1,7 +1,7 @@
 # Portfolio
 ### Hi there 👋, I'm  geekaryan
 ### I'm UG Fresher Student
-### I am 17 year old
+### I am 18 year old
 
 ### Skills: PYTHON / HTML / CSS / C / Mysql / C++ / Ruby
 
