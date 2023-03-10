@@ -5,7 +5,7 @@
 
 ### Skills: MERN DEVELOPMENT / C++ / PYTHON / NEXTJS / POSTMAN / DOCKER / DATA STRUCTURES
 
-- 🔭 I’m currently learning Web Development
+- 🔭 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me: sudoaptrana2025@gmail.com
 - ⚡ Fun fact: I love to spend my time with Linux
 
