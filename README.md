@@ -3,7 +3,7 @@
 ### I'm UG Fresher Student
 ### I am 18 year old
 
-### Skills: PYTHON / HTML / CSS / C / Mysql / C++ / Ruby
+### Skills: MERN DEVELOPMENT / C++ / PYTHON / NEXTJS / POSTMAN / DOCKER / DATA STRUCTURES
 
 - 🔭 I’m currently learning Web Development
 - 📫 How to reach me: sudoaptrana2025@gmail.com
