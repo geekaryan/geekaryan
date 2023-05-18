@@ -14,7 +14,7 @@
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=geekaryan)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=geekaryan)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekaryan)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -22,7 +22,18 @@
 
 ![GitHub metrics](https://metrics.lecoq.io/geekaryan)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=geekaryan)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=geekaryan)   -->
+<picture>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=geekaryan&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 <h3>Connect with me</h3>
 <p align="center">
