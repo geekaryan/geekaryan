@@ -23,6 +23,8 @@
 ![GitHub metrics](https://metrics.lecoq.io/geekaryan)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=geekaryan)   -->
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=geekaryan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=geekaryan&show_icons=true&theme=dark"
@@ -36,7 +38,7 @@
 </picture>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geekaryan&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=geekaryan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 <h3>Connect with me</h3>
 <p align="center">
