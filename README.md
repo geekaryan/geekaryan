@@ -35,6 +35,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=geekaryan&theme=highcontrast&hide_border=false)<br/>
+
 <h3>Connect with me</h3>
 <p align="center">
 
