@@ -32,7 +32,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=geekaryan&show_icons=true" />
 </picture> -->
-![](https://github-readme-stats.vercel.app/api?username=geekaryan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=geekaryan&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geekaryan&theme=dark&hide_border=false)<br/>
 
