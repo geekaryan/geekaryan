@@ -25,13 +25,14 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=geekaryan)   -->
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=geekaryan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<picture>
+<!-- <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=geekaryan&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=geekaryan&show_icons=true" />
-</picture>
+</picture> -->
+![](https://github-readme-stats.vercel.app/api?username=geekaryan&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geekaryan&theme=dark&hide_border=false)<br/>
 
