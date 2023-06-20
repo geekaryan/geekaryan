@@ -36,6 +36,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=geekaryan&theme=dark&hide_border=false)<br/>
 
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=geekaryan&theme=forest&font=Georgia)
+
 
 <h3>Connect with me</h3>
 <p align="center">
