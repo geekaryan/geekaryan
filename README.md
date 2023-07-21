@@ -16,7 +16,7 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=geekaryan)](https://github.com/ryo-ma/github-profile-trophy)  hh
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekaryan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=geekaryan)](https://github.com/anuraghazra/github-readme-stats) g
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=geekaryan&show_icons=true)  
 
