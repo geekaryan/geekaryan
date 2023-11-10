@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently learning Data Structures and Algorithms
 - 📫 How to reach me: sudoaptrana2025@gmail.com
-- ⚡ Fun fact: I love to spend my time with Linux
+- ⚡ Fun fact: I love to spend my time with Linux .
 
 <img alt="GIF" src="gifme.gif" width="400"/>
 
