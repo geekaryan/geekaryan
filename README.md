@@ -1,7 +1,7 @@
 # Portfolio
 ### Hi there 👋, I'm  geekaryan
 ### I'm UG Fresher Student
-### I am 19 year old
+### I am 20 year old
 
 ### Skills: MERN DEVELOPMENT / C++ / PYTHON / NEXTJS / POSTMAN / DOCKER / DATA STRUCTURES
 
